@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartik Manna</h1>
 <h3 align="center">A passionate back end developer from India</h3>
 
-- 🔭 I’m currently working on **Authentication**
+- 🔭 I’m currently working on **kocommerce**
 
 - 📫 How to reach me **kartikmanna721140@gmail.com**
 
